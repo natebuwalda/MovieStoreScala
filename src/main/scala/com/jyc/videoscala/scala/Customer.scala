@@ -1,8 +1,6 @@
 package com.jyc.videoscala.scala
 
-import collection.mutable.ListBuffer
-import java.lang.String
-import scala.Predef.String
+import scala.collection.mutable.ListBuffer
 
 
 class Customer(val name: String) {
